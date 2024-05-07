@@ -224,6 +224,13 @@
     </Preference>
 
     <Preference
+        android:key="sensor_access"
+        android:title="@string/sensor_access_title"
+        android:summary="@string/sensor_access_summary"
+        android:fragment="com.android.settings.applications.specialaccess.sensor.SensorAccess">
+    </Preference>
+
+    <Preference
         android:key="special_access_more"
         android:title="@string/special_access_more"
         android:order="-100"

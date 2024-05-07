@@ -120,4 +120,7 @@
     <string name="battery_design_capacity_summary">%1$d mAh</string>
     <string name="battery_maximum_capacity">Capacité maximale</string>
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="sensor_access_summary">Contrôler l\'accès des applications utilisateurs aux capteurs</string>
+    <string name="sensor_access_title">Access aux Capteurs</string>
+    <string name="sensor_access_title_empty_text">Aucune app installée n\'a demandé de l\'accès aux capteurs.</string>
 </resources>
