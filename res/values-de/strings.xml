@@ -5120,4 +5120,6 @@
     <string name="content_protection_preference_subpage_info" msgid="6890886357653365489"></string>
     <string name="accessibility_setup_password_complete" msgid="6358749253318369077">"Das Passwort ist jetzt eingerichtet"</string>
     <string name="show_stylus_pointer_icon" msgid="1010583689203665786">"Zeiger einblenden, während der Eingabestift bewegt wird"</string>
+    <string name="hosts_disable_title">DNS Blocker deaktivieren</string>
+    <string name="hosts_disable_summary">Deaktiviert den mitgelieferten /etc/hosts Werbeblocker gegen Datensammler und Malware.</string>
 </resources>

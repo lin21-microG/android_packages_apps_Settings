@@ -13017,4 +13017,8 @@
 
     <!--Text for Stylus Pointer Icon preference -->
     <string name="show_stylus_pointer_icon">Show pointer while hovering</string>
+
+    <!-- etc/hosts toggle -->
+    <string name="hosts_disable_title">Disable DNS content blocker</string>
+    <string name="hosts_disable_summary">Disables use of the included /etc/hosts database for data collection and malware blocking.</string>
 </resources>

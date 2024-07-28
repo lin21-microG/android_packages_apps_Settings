@@ -60,6 +60,12 @@
             android:title="@string/security_settings_biometric_preference_title"
             android:summary="@string/summary_placeholder"
             settings:keywords="@string/keywords_biometric_settings" />
+
+        <SwitchPreference
+            android:key="hosts_disable"
+            android:title="@string/hosts_disable_title"
+            android:summary="@string/hosts_disable_summary"
+            android:persistent="false" />
     </PreferenceCategory>
 
     <Preference

@@ -5120,4 +5120,6 @@
     <string name="content_protection_preference_subpage_info" msgid="6890886357653365489"></string>
     <string name="accessibility_setup_password_complete" msgid="6358749253318369077">"Le mot de passe est maintenant défini"</string>
     <string name="show_stylus_pointer_icon" msgid="1010583689203665786">"Afficher le pointeur lorsque le curseur pointe un élément"</string>
+    <string name="hosts_disable_title">Désactiver blocage de DNS</string>
+    <string name="hosts_disable_summary">Désactiver l\'usage de la database /etc/hosts, qui sert à éviter la collecte de données et les malwares</string>
 </resources>
