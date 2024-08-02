@@ -1795,7 +1795,7 @@
     <string name="app_disable_dlg_text" msgid="2449382902751908916">"Bei Deaktivierung dieser App funktionieren Android und andere Apps möglicherweise nicht mehr ordnungsgemäß. Beachte hierbei, dass du diese App nicht löschen kannst, weil sie auf deinem Gerät vorinstalliert war. Durch die Deaktivierung schaltest du diese App ab und blendest sie auf deinem Gerät aus."</string>
     <string name="app_install_details_group_title" msgid="1172114479073704677">"App-Shop"</string>
     <string name="app_install_details_title" msgid="7783556181897142187">"App-Details"</string>
-    <string name="app_install_details_summary" msgid="2013043219249992373">"App installiert vom <xliff:g id="APP_STORE">%1$s</xliff:g>"</string>
+    <string name="app_install_details_summary" msgid="2013043219249992373">"App installiert von <xliff:g id="APP_STORE">%1$s</xliff:g>"</string>
     <string name="instant_app_details_summary" msgid="417197491598208216">"Weitere Informationen im <xliff:g id="APP_STORE">%1$s</xliff:g>"</string>
     <string name="app_ops_running" msgid="6127474473137428721">"Aktiv"</string>
     <string name="app_ops_never_used" msgid="9038133162371204506">"(Nie verwendet)"</string>
